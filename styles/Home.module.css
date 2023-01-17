@@ -1,0 +1,146 @@
+
+.css {
+  height: auto;
+  width: 100%;
+}
+
+.h4 {
+  font-weight: 600;
+  font-size: 30px;
+  margin: 0 0 20px 0;
+  margin-left: 15rem;
+}
+.drop {
+  font-weight: 600;
+  font-size: 30px;
+  margin: 0 0 20px 0;
+}
+.con {
+  background-color: #f8f9fa;
+  padding: 10px;
+  margin-top: 8px;
+  
+}
+.cont {
+  background-color: #6a5376;
+  color: #fff;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.back {
+  margin-bottom: 20px;
+  display: inline-block;
+  cursor: pointer;
+  color: #fff;
+  font-size: 18px;
+}
+.header {
+  color: #fff;
+  margin-top: 0;
+  font-size: 32px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+.btn {
+  color: #fff;
+  background-color: #1ebea5;
+  border-color: #fff;
+  border: 0;
+  line-height: 2em;
+  font-size: inherit;
+  display: inline-block;
+  border-radius: 4px;
+  position: relative;
+  padding: 0 15px;
+}
+.link {
+  font-weight: 700;
+  font-size: 30px;
+  color: #183247;
+  font-size: 20px;
+  margin-bottom: 10px;
+  display: block;
+  font-weight: 600;
+}
+.p {
+  font-size: x-small;
+  color: #183247;
+  font-size: 14px;
+  float: left;
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.container{
+  width: 75%;
+    max-width: 960px;
+    margin: 0 auto;
+
+}
+.grap{
+  padding-top: 1.5rem;  
+}
+
+.bl{
+  color:   #0074d7;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+.open{
+  background-color: #ecf0f3;
+  float: right;
+    font-size: 12px;
+    height: fit-content;
+    padding: 3px 10px;
+    border-radius: 25px;
+    margin-right: 30px;
+
+}
+.post{
+  background: #ffffff;
+    box-shadow: 0 0 2px 0 rgb(0 0 0 / 20%);
+ max-width: 960px;
+border-radius: 4px;
+cursor: pointer;
+position: relative;
+padding: 20px 20px 20px 30px;
+margin-bottom: 20px;
+}
+.post:hover{
+  background-color:  #ecf0f3;
+  transition: 0.3s;
+}
+.substr{
+  font-size: 14px;
+  color: #183247;
+}
+.blogItemh3{
+  color: #183247;
+  font-size: 20px;
+  margin: 0 0 10px;
+  font-weight: 600;
+  display: block;
+}
+.butt{
+  display: inline-block;
+ touch-action: manipulation;
+    cursor: pointer;
+   padding: 6px 29px;
+    font-size: 18px;
+    border-radius: 4px;
+  background-color: #0074d7;
+}
+.butt:hover{
+  background-color: blue;
+}
+.h1{
+  width: 66.6%;
+  position: relative;
+  padding: 0 15px;
+  
+}
